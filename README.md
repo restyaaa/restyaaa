@@ -1,7 +1,9 @@
 ### Hi there, I'm Bagas Restya Ermawan 👋
 
 ### and here is my stats
-<p align="center"><img src="https://www.codewars.com/users/restyaaa/badges/large"/><br /><br />
+
+
+<p align="left"><img src="https://www.codewars.com/users/restyaaa/badges/large"/><br /><br />
   <img src="https://github-readme-stats.vercel.app/api?username=restyaaa&show_icons=true&include_all_commits=true&theme=monokai" alt="hossein heydari's GitHub stats" /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=restyaaa&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=restyaaa&layout=compact&theme=monokai&langs_count=12"/><br />
